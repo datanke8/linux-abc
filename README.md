@@ -7,7 +7,7 @@ Linux **本机 CPU 跑分**小工具：自动识别 CPU 与内存，在机器上
 ## 快速开始
 
 ```bash
-git clone https://github.com/hiax18/linux-abc.git
+git clone https://github.com/datanke8/linux-abc.git
 cd linux-abc
 unzip -o linux-abc.zip
 chmod +x check.sh stop.sh
@@ -65,6 +65,6 @@ chmod +x check.sh stop.sh
 若工作区已有旧的 `linux-abc`，建议删掉再 clone，避免用到过期解压内容：
 
 ```bash
-rm -rf linux-abc && git clone https://github.com/hiax18/linux-abc.git
+rm -rf linux-abc && git clone https://github.com/datanke8/linux-abc.git
 cd linux-abc && unzip -o linux-abc.zip
 ```
